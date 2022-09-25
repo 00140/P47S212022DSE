@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">P47S212022DSE</string>
+    <string name="suma">Ir a suma</string>
+    <string name="resta">Ir a resta</string>
+    <string name="titulosuma">OPERACION SUMA</string>
+    <string name="titulomulti">OPERACION Multiplicar</string>
+    <string name="titulodiv">OPERACION Dividir</string>
+    <string name="tituloresta">OPERACION RESTA</string>
+    <string name="calcula">CALCULAR</string>
+    <string name="regresa">REGRESAR</string>
+    <string name="division">Dividir</string>
+    <string name="multi">Multiplicar</string>
+    <string name="hinnum1">Coloca un numero</string>
+    <string name="hinnum2">Coloca otro numero aqui</string>
+    <string name="resultado">Resultado</string>
+    <string name="multiplicacion">Multiplicacion</string>
+</resources>
